@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+I created this landing page following [**Easy websify**](https://www.youtube.com/@easywebsify)'s tutorial titled "**How to Create a Landing Page using Next.js - Step by step | React EP-2**", whose link can be found at: https://www.youtube.com/watch?v=4zP8TvaQEK0. The only difference is that I adapted the code to **TypeScript** to make it more modern. I also changed the images displayed in the tutorial to other images obtained from the [Freepik.com](https://www.freepik.com/) website. These images can be found at the following links:
+
+[Forming team leadership concept illustration](https://www.freepik.com/free-vector/forming-team-leadership-concept-illustration_35294599.htm)
+
+[Teamwork people with puzzle pieces](https://www.freepik.com/free-vector/teamwork-people-with-puzzle-pieces_5686193.htm)
+
+[Business team putting together jigsaw puzzle isolated flat vector illustration](https://www.freepik.com/free-vector/business-team-putting-together-jigsaw-puzzle-isolated-flat-vector-illustration-cartoon-partners-working-connection-teamwork-partnership-cooperation-concept_10606197.htm)
+
+[Teamwork concept for landing page](https://www.freepik.com/free-vector/teamwork-concept-landing-page_5155720.htm)
+
+[Meet our team concept for landing page](https://www.freepik.com/free-vector/meet-our-team-concept-landing-page_4655335.htm)
+
+
+
 ## Getting Started
 
 First, run the development server:
