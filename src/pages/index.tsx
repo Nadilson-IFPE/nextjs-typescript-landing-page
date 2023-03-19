@@ -6,6 +6,7 @@ import Footer from '@/components/Footer'
 import Hero from '@/components/Hero'
 import Feature from './../components/Feature';
 import Service from '@/components/Service'
+import About from '@/components/About'
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Hero />
         <Feature />
         <Service />
+        <About />
         <Footer />
       </Layout>
     </>
