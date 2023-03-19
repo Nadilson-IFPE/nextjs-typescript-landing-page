@@ -5,6 +5,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import Hero from '@/components/Hero'
 import Feature from './../components/Feature';
+import Service from '@/components/Service'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Header />
         <Hero />
         <Feature />
+        <Service />
         <Footer />
       </Layout>
     </>
